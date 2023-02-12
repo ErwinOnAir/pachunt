@@ -3,12 +3,14 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - whatIsGround
+  - Spieler
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - SPIELER
   - Water
   - UI
   - 
